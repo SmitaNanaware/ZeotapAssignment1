@@ -2,7 +2,7 @@
 # Web Application Mimicking Google Sheets  
 A web-based spreadsheet application built using **HTML, CSS, and JavaScript** that provides functionalities similar to Google Sheets, including data entry, formatting, mathematical calculations, and file operations.
 
-Our site is live at http://127.0.0.1:5500/ZeotapAssignment1/index.html
+Our site is live at https://smitananaware.github.io/ZeotapAssignment1/
 
 
 ## 🚀 Features  

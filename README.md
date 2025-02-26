@@ -44,10 +44,8 @@ Our site is live at http://127.0.0.1:5500/ZeotapAssignment1/index.html
 7. Load a previously saved file using the "Load" button.
    
 ## 📦 Installation  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/thilaksagarn/Web-Application-Mimicking-Google-Sheets.git
-2. Navigate to the project directory:
+
+1. Navigate to the project directory:
     ```bash
     cd Web-Application-Mimicking-Google-Sheets
-3. Open index.html in a browser to run the application.
+2. Open index.html in a browser to run the application.

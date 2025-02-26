@@ -4,6 +4,9 @@ A web-based spreadsheet application built using **HTML, CSS, and JavaScript** th
 
 Our site is live at https://smitananaware.github.io/ZeotapAssignment1/
 
+## 📸 Screenshots
+![image](https://github.com/SmitaNanaware/ZeotapAssignment1/blob/main/Screenshot%20Google%20Sheet.png?raw=true)
+
 
 ## 🚀 Features  
 ✔️ **Spreadsheet Interface** – Rows, columns, and a toolbar for formatting.  

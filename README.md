@@ -46,9 +46,4 @@ Our site is live at https://smitananaware.github.io/ZeotapAssignment1/
 6. Save your spreadsheet as an Excel file using the "Save" button.
 7. Load a previously saved file using the "Load" button.
    
-## 📦 Installation  
 
-1. Navigate to the project directory:
-    ```bash
-    cd Web-Application-Mimicking-Google-Sheets
-2. Open index.html in a browser to run the application.
